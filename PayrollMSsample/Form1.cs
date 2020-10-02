@@ -75,7 +75,7 @@ namespace PayrollMSsample
                 }
                 else
                 {
-                    MessageBox.Show("Invalied User name!");
+                    MessageBox.Show("Error,Invalied User name!");
                 }
             }
             else if (usertype == "HR")
@@ -128,7 +128,7 @@ namespace PayrollMSsample
                     }
                     else
                     {
-                        MessageBox.Show("Invalied Password");
+                        MessageBox.Show("Error,Invalied Password");
                     }
                 }
                 else
