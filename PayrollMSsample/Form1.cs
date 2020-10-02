@@ -128,7 +128,7 @@ namespace PayrollMSsample
                     }
                     else
                     {
-                        MessageBox.Show("Invalied Password");
+                        MessageBox.Show("Error,Invalied Password");
                     }
                 }
                 else
